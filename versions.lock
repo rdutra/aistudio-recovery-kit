@@ -1,0 +1,8 @@
+# Versions observed in the working AIStudio setup on 2026-10-29.
+python=3.12
+dmux=5.11.1
+mflux=0.24.0
+mlx-audiocraft=0.1.0
+ace-step-1.5-commit=ca1e85fe9430179831e6bc6be790c332190a3866
+phosphene-source-commit=9644081764a827103e3b4466482208672b898fd0
+# Codex CLI, Phosphene model sets, and optional Hugging Face model weights are updated independently.

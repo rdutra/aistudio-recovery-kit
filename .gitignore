@@ -15,6 +15,5 @@ tools/ACE-Step-1.5/
 
 # Local development/worktree helpers
 .dmux/
-.dmux-hooks/
 backups/
 
