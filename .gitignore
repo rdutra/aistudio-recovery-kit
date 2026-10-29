@@ -4,6 +4,7 @@ outputs/**
 tools/**/.venv/
 tools/**/__pycache__/
 tools/**/*.py[cod]
+tools/**/*.egg-info/
 tools/**/.DS_Store
 tools/**/.gpu-job-scheduler.lock
 tools/ACE-Step-1.5/
@@ -15,4 +16,5 @@ tools/ACE-Step-1.5/
 # Local development/worktree helpers
 .dmux/
 .dmux-hooks/
+backups/
 
