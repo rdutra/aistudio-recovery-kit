@@ -1,0 +1,18 @@
+# Generated media and local runtime state
+outputs/**
+!outputs/.gitkeep
+tools/**/.venv/
+tools/**/__pycache__/
+tools/**/*.py[cod]
+tools/**/.DS_Store
+tools/**/.gpu-job-scheduler.lock
+tools/ACE-Step-1.5/
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Local development/worktree helpers
+.dmux/
+.dmux-hooks/
+

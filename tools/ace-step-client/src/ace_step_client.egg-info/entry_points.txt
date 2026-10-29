@@ -1,0 +1,2 @@
+[console_scripts]
+ace-step = ace_step_client.cli:main
