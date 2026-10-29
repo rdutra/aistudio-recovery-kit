@@ -2,6 +2,8 @@
 
 Recovery kit for this Apple Silicon Mac's local AI tools. It keeps our custom clients, Codex skills, dmux hook documentation, and repeatable setup scripts in Git. It does not store virtual environments, model weights, generated media, Codex sessions, or credentials.
 
+For the complete factory-reset recipe, follow [QUICKSTART.md](QUICKSTART.md).
+
 ## Restore the machine
 
 1. Install macOS command line tools and Homebrew.
